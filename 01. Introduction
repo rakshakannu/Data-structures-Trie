@@ -1,0 +1,24 @@
+efficient for the following operations
+- search
+- insert
+- delete 
+- prefix search 
+- lexicographical ordering of words
+
+// COMPARISON WITH HASHING AND TRIE
+
+// TRIE
+
+SEARCH - theta(word length) in worst case
+INSERT - "
+DELETE - "
+PREFIX SEARCH - theta(prefix len + output len)
+LEXICOGRAPHIC ORDERING - theta(output len)
+
+// HASHING
+
+SEARCH - theta(word length) in average
+INSERT - "
+DELETE - "
+PREFIX SEARCH - not supported
+LEXICOGRAPHIC ORDERING - not supported
