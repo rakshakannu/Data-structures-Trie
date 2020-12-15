@@ -1,2 +1,2 @@
 # Data-structures-Trie
-all about thr trie data structure
+all about the trie data structure
